@@ -12,5 +12,3 @@ Html comes packed with the following features:
 
 ## License
 MIT © [Yoshua Wuyts](yoshuawuyts.com)
-
-
