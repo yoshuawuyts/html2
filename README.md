@@ -4,8 +4,8 @@
 
 ## Features
 Html comes packed with the following features:
-- [react](http://facebook.github.io/react/) with fallback
-- [backbone](backbonejs.org) with fallback
+- [React](http://facebook.github.io/react/) with fallback
+- [Backbone](backbonejs.org) with fallback
 - Google analytics integration
 - Warnings for outdated browsers
 - A ````root```` hook to render templates around
